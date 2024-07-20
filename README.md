@@ -1,1 +1,1 @@
-A basic weather application.
+A basic weather application aimed to calibrate basic features and practice frontend concepts.
